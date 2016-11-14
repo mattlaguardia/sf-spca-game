@@ -1,0 +1,15 @@
+{
+  "name": "spca-game",
+  "version": "1.0.0",
+  "description": "A fun game for kids at the SF-SPCA",
+  "main": "server.js",
+  "scripts": {
+    "start": "node serve.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Laguardia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
