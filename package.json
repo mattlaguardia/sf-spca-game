@@ -4,7 +4,7 @@
   "description": "A fun game for kids at the SF-SPCA",
   "main": "server.js",
   "scripts": {
-    "start": "node serve.js",
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Matt Laguardia",
